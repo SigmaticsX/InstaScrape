@@ -1,3 +1,6 @@
+##[Downloads](https://github.com/SigmaticsX/InstaScrape/releases) 
+
+
 # InstaScrape
 
 Download an accounts posts, stories and profile pictures!
