@@ -1,18 +1,16 @@
 # InstaScrape
 
-One Paragraph of project description goes here
+Download an accounts posts, stories and profile pictures!
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Currently this program is less versatile than the original Instagram-Scraper that lots of code has been taken from, but if you want to download everything from an account, this one is easier to use!
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You will need to install:
 
-```
-Give examples
-```
+[Python](https://www.python.org/downloads/release/python-371/) - Version 3.7.1
 
 ### Installing
 
