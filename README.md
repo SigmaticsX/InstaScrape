@@ -29,3 +29,8 @@ Enter your instagram password
 Enter your target account
 Wait until it's complete
 ```
+
+### Credits
+
+Thanks to @rarcega for creating instagram-scraper, a command-line program that this runs off of.
+See it [Here](https://github.com/rarcega/instagram-scraper)
