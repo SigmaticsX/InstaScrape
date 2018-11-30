@@ -1,4 +1,4 @@
-##[Downloads](https://github.com/SigmaticsX/InstaScrape/releases) 
+[Downloads](https://github.com/SigmaticsX/InstaScrape/releases) || [Support (Discord)](https://discord.gg/wzKhbVk) 
 
 
 # InstaScrape
